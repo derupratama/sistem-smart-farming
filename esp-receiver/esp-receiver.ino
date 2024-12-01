@@ -1,12 +1,12 @@
-#define BLYNK_TEMPLATE_ID "ISI"
+#define BLYNK_TEMPLATE_ID "TEMPLATE ID"
 #define BLYNK_TEMPLATE_NAME "Greenhouse"
 #define BLYNK_AUTH_TOKEN "ISI"
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char ssid[] = "NAMA_WIFI";
-char pass[] = "PASSWORD_WIFI";
+char ssid[] = "WIFI";
+char pass[] = "PASSWORD";
 
 String dataMasuk = "";
 

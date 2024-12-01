@@ -42,7 +42,7 @@ void loop()
     statusPompa = "OFF";
   }
 
-  // LED UV
+  // LED U V
 
   if (ldrValue == HIGH)
   {

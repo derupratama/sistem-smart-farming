@@ -41,7 +41,7 @@ Data sensor serta status aktuator dikirim dari Arduino Uno ke ESP8266 menggunaka
 
 ---
 
-# 🛠️ Komponen yang Digunakan
+# Komponen yang Digunakan
 
 | No | Komponen               |
 | -- | ---------------------- |
