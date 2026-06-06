@@ -61,7 +61,7 @@ Data sensor serta status aktuator dikirim dari Arduino Uno ke ESP8266 menggunaka
 
 
 
-# Konfigurasi Pin ESP8266
+# Konfigurasi Rangkaian
 
 <img width="989" height="647" alt="rangkaian drawio" src="https://github.com/user-attachments/assets/578338da-f030-497b-a962-2a6cce760cdb" />
 
