@@ -59,25 +59,13 @@ Data sensor serta status aktuator dikirim dari Arduino Uno ke ESP8266 menggunaka
 
 ---
 
-# Konfigurasi Pin Arduino Uno
 
-| Komponen         | Pin Arduino | Tipe           |
-| ---------------- | ----------- | -------------- |
-| Soil Moisture AO | A0          | Analog Input   |
-| LDR DO           | D2          | Digital Input  |
-| Relay IN         | D7          | Digital Output |
-| LED UV           | D8          | Digital Output |
-| TX UART          | D1          | Serial Output  |
-
----
 
 # Konfigurasi Pin ESP8266
 
-```
-
 <img width="989" height="647" alt="rangkaian drawio" src="https://github.com/user-attachments/assets/578338da-f030-497b-a962-2a6cce760cdb" />
 
-```
+---
 
 
 # Library yang Digunakan
